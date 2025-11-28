@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">✨Hi, I'm Sarah Binion (she/her)✨</h1>
 
-<!--
-**srhbinion/srhbinion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Frontend Engineer • Design Systems & Accessibility Specialist • Product Metrics Engineer • People Manager</b><br>
+  I build tools, systems, and people.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/sarahbinion/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+### 🧠 What I Do
+- 🎨 **UI Engineering** — React • CSS • Accessible design systems • Component architecture
+- 🔁 **Product Management** — Roadmaping • SQL • Key Performance Indicators • Project Scoping
+- 👩🏼‍💻 **People Management** — Team Multiplier • Career Development • Technical Coach • People Enabler
+
+---
+
+
+### 🔥 Tech Stack
+
+```ts
+
+Languages:   JavaScript, TypeScript, SQL
+
+Frontend:    React, Next.js, CSS
+
+Testing:     Playwright, Postman
+
+Design:      Storybook, Figma, Accessible UI Patterns
+
+```
+
+---
+
+
+### 💬 Let’s Connect
+
+- 🌐 Website → [sarahbinion.com](https://sarahbinion.com)
+
+- 💼 LinkedIn → [linkedin.com/in/sarahbinion](https://www.linkedin.com/in/sarahbinion/)
+
+
+
+
+---
