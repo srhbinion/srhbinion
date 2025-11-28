@@ -22,17 +22,14 @@
 
 ### 🔥 Tech Stack
 
-```ts
+Languages:   JavaScript, TypeScript, SQL,
 
-Languages:   JavaScript, TypeScript, SQL
-
-Frontend:    React, Next.js, CSS
+Frontend:    React, Next.js, CSS,
 
 Testing:     Playwright, Postman
 
 Design:      Storybook, Figma, Accessible UI Patterns
 
-```
 
 ---
 
